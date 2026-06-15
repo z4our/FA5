@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    margin: 40px 30% 40px 30%;
+}
+
+#fullName {
+    font-size: 36px;
+    margin-bottom: 2px;
+    color: #0a2540;
+}
+
+#myTitle {
+    margin-top: 0px;
+    color: #284c70;
+}
+
+.title {
+    margin-top: 12px;
+    color: #284c70;
+}
+
+.contacts {
+    margin-top: 20px;
+    color: #333;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #5179a1;
+    margin: 4px 0;
+}
+
+a {
+    display: block;
+    width: 5%;
+    padding: 10px;
+
+    background-color: #c2b200;
+    border-radius: 5px;
+    text-align: center;
+
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    color: #006a05;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: #5c5400;
+    color: white;
+}
